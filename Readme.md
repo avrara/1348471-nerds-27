@@ -1,7 +1,7 @@
 # Личный проект «Нёрдс»
 
 * Студент: [Mariia Osadchaia](https://up.htmlacademy.ru/htmlcss/27/user/1348471).
-* Наставник: `Неизвестно`.
+* Наставник: [Степан :) Клочко](https://htmlacademy.ru/profile/id1149105).
 
 ---
 
